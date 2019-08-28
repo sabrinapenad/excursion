@@ -1,0 +1,29 @@
+/* Universal Styles */
+
+html {
+  background-color: black;
+  font-family: "Verdana";
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.main {
+  padding-top: 20px;
+}
+
+h2 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
+}
